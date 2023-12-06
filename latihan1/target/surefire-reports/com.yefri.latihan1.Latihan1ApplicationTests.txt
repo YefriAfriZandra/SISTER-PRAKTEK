@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.yefri.latihan1.Latihan1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.016 s - in com.yefri.latihan1.Latihan1ApplicationTests
